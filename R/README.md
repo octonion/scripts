@@ -10,3 +10,9 @@ sudo Rscript install_R_package.R zelig
 sudo Rscript install_R_package.R Zelig
 sudo Rscript install_R_package.R graph
 ```
+or:
+```
+install_R_package.sh zelig
+install_R_package.sh Zelig
+install_R_package.sh graph
+```
